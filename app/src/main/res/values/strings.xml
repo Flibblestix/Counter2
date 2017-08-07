@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Counter</string>
-    <string name="time_until">Due date in </string>
+    <string name="time_until">Select due date </string>
+    <string name="btn_confirm">Confirm</string>
 </resources>
